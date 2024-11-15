@@ -1,0 +1,5 @@
+Title: Avengers | Description: superheroes movie | Genre: Action | Subject: Children and Youth | Star: Ironman | Year: 2017 | Production: Marvel Studios
+Title: Joker | Description: very nice movie | Genre: Drama | Subject: People | Star: Phoenix | Year: 2022 | Production: DC
+Title: Inception | Description: a movie that makes you think a lot | Genre: Drama | Subject: People | Star: DiCaprio | Year: 2010 | Production: Warner Bros. Pictures
+Title: The dark knight | Description: Super heroes movie | Genre: Action | Subject: Children and Youth | Star: Christian Bale | Year: 2008 | Production: Warner Bros. Pictures
+Title: Avatar | Description: Futurist movie | Genre: Action | Subject: People | Star: Sam Worthington | Year: 2009 | Production: 20th Century Fox
